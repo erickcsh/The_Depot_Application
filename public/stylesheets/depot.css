@@ -1,4 +1,7 @@
 /* Global styles */
+#store {
+  margin: 0px
+}
 
 #store #notice {
         color: #000;
