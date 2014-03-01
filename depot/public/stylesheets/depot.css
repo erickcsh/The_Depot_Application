@@ -1,4 +1,7 @@
 /* Global styles */
+#store {
+  margin: 0px
+}
 
 #store #notice {
         color: #000;
@@ -152,4 +155,8 @@
   color: #44a;
   font-weight: bold;
   margin-right: 2em;
+}
+
+#store .entry form. #store .entry form div {
+  display: inline;
 }
